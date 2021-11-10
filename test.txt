@@ -1,1 +1,2 @@
 First text(EDITED twice (in doc))
+ADDED NEW LINE(TEST)
